@@ -1,4 +1,5 @@
 # 🌦️ DevOps Лабораторная работа №1: Погода на сайте Nginx
+![Uploading image.png…]()
 
 [![Bash](https://img.shields.io/badge/Bash-4.4+-4EAA25?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 
