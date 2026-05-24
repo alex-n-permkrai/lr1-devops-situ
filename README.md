@@ -51,4 +51,6 @@
 Установка недостающих пакетов (Ubuntu/Debian):
 ```bash
 sudo apt update
-sudo apt install -y curl jq
+sudo apt install -y nginx jq curl cron git
+sudo systemctl enable --now nginx
+sudo systemctl enable --now cron
